@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "DDD",
+    "DVD",
+    "DDD"
+  ],
+  "key": {
+    "V": { "item": "alchemy:emerald_alchemy_bag" },
+    "D": { "item": "minecraft:diamond" }
+  },
+  "result": {
+    "id": "alchemy:diamond_alchemy_bag",
+    "count": 1
+  }
+}

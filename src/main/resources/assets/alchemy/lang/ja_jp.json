@@ -1,0 +1,38 @@
+{
+  "itemGroup.alchemy_main" : "錬金術師mod",
+
+  "key.alchemy.open_gui": "ポーション選択画面を開く",
+
+  "alchemy.config.amplifier" : "ポーションレベル",
+  "alchemy.config.velocity" : "投擲速度",
+  "alchemy.config.cooldown" : "クールタイム",
+
+  "alchemy.item.amplifier" : "ポーション",
+  "alchemy.item.velocity" : "投擲速度",
+  "alchemy.item.cooldown" : "クールタイム",
+  "key.categories.alchemy": "錬金術師Mod",
+
+  "tooltip.alchemy.alchemy_bags" : "Vで設定したポーションを生成し投擲できる錬金術の袋",
+  "tooltip.alchemy.speed" : "【投擲速度特化形】",
+  "tooltip.alchemy.power" : "【ポーションレベル特化形】",
+  "tooltip.alchemy.common" : "【汎用形】",
+
+  "item.alchemy.alchemy_bag_upgrade" : "錬金術師のバックの鍛冶型",
+  "item.alchemy.coal_alchemy_bag" : "石炭の錬金術師のバック",
+  "item.alchemy.copper_alchemy_bag" : "銅の錬金術師のバック",
+  "item.alchemy.iron_alchemy_bag" : "鉄の錬金術師のバック",
+  "item.alchemy.redstone_alchemy_bag" : "レッドストーンの錬金術師のバック",
+
+
+
+  "item.alchemy.lapis_alchemy_bag" : "ラピスラズリの錬金術師のバック",
+  "item.alchemy.gold_alchemy_bag" : "金の錬金術師のバック",
+  "item.alchemy.amethyst_alchemy_bag" : "アメジストの錬金術師のバック",
+
+
+
+  "item.alchemy.emerald_alchemy_bag" : "エメラルドの錬金術師のバック",
+  "item.alchemy.diamond_alchemy_bag" : "ダイアモンドの錬金術師のバック",
+  "item.alchemy.netherite_alchemy_bag" : "ネザライトの錬金術師のバック"
+
+}

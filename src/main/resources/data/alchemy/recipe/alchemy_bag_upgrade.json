@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " D ",
+    "GNG",
+    " D "
+  ],
+  "key": {
+    "D": {
+      "item": "alchemy:diamond_alchemy_bag"
+    },
+    "G": {
+      "item": "alchemy:gold_alchemy_bag"
+    },
+    "N": {
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    }
+  },
+  "result": {
+    "id": "alchemy:alchemy_bag_upgrade",
+    "count": 1
+  }
+}

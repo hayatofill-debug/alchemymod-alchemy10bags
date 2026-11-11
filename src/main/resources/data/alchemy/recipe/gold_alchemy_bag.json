@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GGG",
+    "GVG",
+    "GGG"
+  ],
+  "key": {
+    "V": { "item": "alchemy:lapis_alchemy_bag" },
+    "G": { "item": "minecraft:gold_ingot" }
+  },
+  "result": {
+    "id": "alchemy:gold_alchemy_bag",
+    "count": 1
+  }
+}

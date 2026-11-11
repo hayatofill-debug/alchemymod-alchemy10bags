@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "category": "misc",
+  "template": {
+    "item": "alchemy:alchemy_bag_upgrade"
+  },
+  "base": {
+    "item": "alchemy:diamond_alchemy_bag"
+  },
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "id": "alchemy:netherite_alchemy_bag",
+    "count": 1
+  }
+}

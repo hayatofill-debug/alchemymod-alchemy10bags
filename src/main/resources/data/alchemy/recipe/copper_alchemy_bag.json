@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CCC",
+    "CVC",
+    "CCC"
+  ],
+  "key": {
+    "V": { "item": "alchemy:coal_alchemy_bag" },
+    "C": { "item": "minecraft:copper_ingot" }
+  },
+  "result": {
+    "id": "alchemy:copper_alchemy_bag",
+    "count": 1
+  }
+}

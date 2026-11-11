@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "RRR",
+    "RVR",
+    "RRR"
+  ],
+  "key": {
+    "V": { "item": "alchemy:iron_alchemy_bag" },
+    "R": { "item": "minecraft:redstone" }
+  },
+  "result": {
+    "id": "alchemy:redstone_alchemy_bag",
+    "count": 1
+  }
+}

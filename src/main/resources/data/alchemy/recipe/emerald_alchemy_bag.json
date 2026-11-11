@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "EVE",
+    "EEE"
+  ],
+  "key": {
+    "V": { "item": "alchemy:redstone_alchemy_bag" },
+    "E": { "item": "minecraft:emerald" }
+  },
+  "result": {
+    "id": "alchemy:emerald_alchemy_bag",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "itemGroup.alchemymod": "Example Mod Tab",
+  "block.alchemymod.example_block": "Example Block",
+  "item.alchemymod.example_item": "Example Item",
+
+  "alchemymod.configuration.title": "Alchemy mod Configs",
+  "alchemymod.configuration.section.alchemymod.common.toml": "Alchemy mod Configs",
+  "alchemymod.configuration.section.alchemymod.common.toml.title": "Alchemy mod Configs",
+  "alchemymod.configuration.items": "Item List",
+  "alchemymod.configuration.logDirtBlock": "Log Dirt Block",
+  "alchemymod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "alchemymod.configuration.magicNumber": "Magic Number"
+}

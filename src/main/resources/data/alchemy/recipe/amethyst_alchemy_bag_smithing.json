@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "category": "misc",
+  "template": {
+    "item": "alchemy:alchemy_bag_upgrade"
+  },
+  "base": {
+    "item": "alchemy:gold_alchemy_bag"
+  },
+  "addition": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "result": {
+    "id": "alchemy:amethyst_alchemy_bag"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "III",
+    "IVI",
+    "III"
+  ],
+  "key": {
+    "V": { "item": "alchemy:copper_alchemy_bag" },
+    "I": { "item": "minecraft:iron_ingot" }
+  },
+  "result": {
+    "id": "alchemy:iron_alchemy_bag",
+    "count": 1
+  }
+}

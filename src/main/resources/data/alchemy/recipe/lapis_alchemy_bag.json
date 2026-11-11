@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "LLL",
+    "LVL",
+    "LLL"
+  ],
+  "key": {
+    "V": { "item": "alchemy:redstone_alchemy_bag" },
+    "L": { "item": "minecraft:lapis_lazuli" }
+  },
+  "result": {
+    "id": "alchemy:lapis_alchemy_bag",
+    "count": 1
+  }
+}

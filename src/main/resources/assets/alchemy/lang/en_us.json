@@ -1,0 +1,34 @@
+{
+  "itemGroup.alchemy_main" : "Alchemist Mod",
+
+  "key.alchemy.open_gui": "Open the potion selection screen",
+
+  "alchemy.config.amplifier" : "Potion Level",
+  "alchemy.config.velocity" : "Throwing speed",
+  "alchemy.config.cooldown" : "Cooldown",
+
+  "alchemy.item.amplifier" : "Potion",
+  "alchemy.item.velocity" : "Throwing speed",
+  "alchemy.item.cooldown" : "Cooldown",
+  "key.categories.alchemy": "Alchemist Mod",
+
+  "tooltip.alchemy.alchemy_bags" : "Alchemy bags that allow you to craft and throw potions set with V",
+  "tooltip.alchemy.speed" : "【Throwing Speed Specialisation】",
+  "tooltip.alchemy.power" : "【Potion Level Specialised】",
+  "tooltip.alchemy.common" : "【General-purpose】",
+
+  "item.alchemy.alchemy_bag_upgrade" : "Smithing-type Alchemist's Bag",
+
+  "item.alchemy.coal_alchemy_bag" : "Coal Alchemist's Bag",
+  "item.alchemy.copper_alchemy_bag" : "Copper Alchemist's Bag",
+  "item.alchemy.iron_alchemy_bag" : "Iron Alchemist's Bag",
+  "item.alchemy.redstone_alchemy_bag" : "Redstone Alchemist's Bag",
+
+  "item.alchemy.lapis_alchemy_bag" : "Lapis Lazuli Alchemist's Bag",
+  "item.alchemy.gold_alchemy_bag" : "Gold Alchemist's Bag",
+  "item.alchemy.amethyst_alchemy_bag" : "Amethyst Alchemist's Bag",
+
+  "item.alchemy.emerald_alchemy_bag" : "Emerald Alchemist's Bag",
+  "item.alchemy.diamond_alchemy_bag" : "Diamond Alchemist's Bag",
+  "item.alchemy.netherite_alchemy_bag" : "Netherite Alchemist's Bag"
+}
